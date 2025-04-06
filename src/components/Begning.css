@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    display: flex;
+    background-image: url("https://w0.peakpx.com/wallpaper/148/292/HD-wallpaper-black-widow-poster-black-widow-2021-movies-movies.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100vw;
+    margin-left: 3.1rem;
+    /* margin-top: 0.02rem; */
+    justify-content: left;
+    align-items: center;
+
+}
+.text h1{
+    background: none;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-weight: 900;
+
+
+}
+.text h5{
+    background: none;
+    margin: 0px;
+    color: rgb(108, 99, 99);
+
+}
+.text{
+    /* margin-top: 0px; */
+    /* margin-top: 0.02rem; */
+    display: flex;
+    gap: 10%;
+    flex-direction: column;
+    width: 25%;
+    height: 50%;
+    margin: 23px;
+    overflow: scroll;
+      padding-left: 1rem;
+      background: none;
+
+}
+.text p{
+    color: #333737;
+    background: none;
+    margin: 0px;
+}
+.text button{
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    height: 50px;
+    width: 20em;
+    font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  border-radius: 999px;
+
+
+}
+.text button:hover {
+    /* opacity: 0.9; */
+    transform: scale(1.03);
+    height: 50px;
+    width: 20em;
+    font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 999px;
+
+}
+
+.topics{
+    background-color: black;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    color: white;
+    
+  
+}
+  /* .overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 66.8vh;
+    width: 40%; 
+    background: linear-gradient(to right, rgba(33, 32, 32, 0.8), transparent);
+    z-index: 1;
+    margin-left: 3.1rem;
+} */
