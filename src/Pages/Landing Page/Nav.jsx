@@ -15,8 +15,7 @@ function Nav() {
             <ul className="menu-list">
               <li className="menu-list-item active">Home</li>
               <li className="menu-list-item">Movies</li>
-              <li className="menu-list-item">Series</li>
-              <li className="menu-list-item">Popular</li>
+
               <li className="menu-list-item">Trends</li>
             </ul>
           </div>
@@ -39,18 +38,13 @@ function Nav() {
       </div>
     </>
   );
-}
 
-export default Nav;
-
-
-
-//   const sliderRef = useRef(null);
+/* //   const sliderRef = useRef(null);
 //   const categories = ["English", "Hindi", "Trending", "Comedy", "Action", "Romance", "Horror", "Sci-Fi"];
 
 //   // Function to scroll
-//   const scroll = (direction) => {
-//     if (sliderRef.current) {
+//   const scroll = (direction) => { */
+/* //     if (sliderRef.current) { */
 //       const scrollAmount = 150; // Adjust scrolling amount
 //       sliderRef.current.scrollBy({ left: direction === "right" ? scrollAmount : -scrollAmount, behavior: "smooth" });
 //     }
