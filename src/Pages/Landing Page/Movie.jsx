@@ -29,7 +29,7 @@ function MovieCard(props) {
       alt:"Raid"
     },
     {
-      title: "ALice in Wonderland",
+      title: "Alice in Wonderland",
       poster: "https://i.pinimg.com/474x/f8/ac/c4/f8acc4a028cf294621a8c873c8f9aaff.jpg",
       language: "English",
      alt:"Alice in wonderland"
