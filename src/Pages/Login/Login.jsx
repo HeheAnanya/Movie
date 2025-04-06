@@ -44,6 +44,8 @@ function Login() {
         <input type="password" placeholder="Password" required value={pass} onChange={(e) => setPass(e.target.value)} />
         <br />
  <button onClick={handle}>Login</button>
+        <p>username: admin</p>
+        <p>pass: Admin2006</p>
 
 
 
