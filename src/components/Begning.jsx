@@ -31,7 +31,7 @@ function Back(){
                 <MovieCard type={"hindi"}/>
             </div>
             <div className="Language">
-                <h2>Englsih</h2>
+                <h2>English</h2>
                 <MovieCard type={"english"}/>
             </div>
         </div>
